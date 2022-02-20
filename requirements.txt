@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+udpy
+python-dotenv
+
